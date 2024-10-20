@@ -9,3 +9,9 @@ img{
 div{
 	margin-bottom: 50px;
 }
+body{
+	background-color: lightblue;
+}
+.card{
+	background-color: mediumpurple;
+}
